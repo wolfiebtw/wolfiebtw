@@ -2,7 +2,7 @@
 
 AI Platform Engineer. I spend most of my day in the terminal — Linux, tmux, git, and a lot of bash.
 
-Most of my projects start as tools for my own daily problems. I self-host the services I rely on (git, chat, AI models), prefer local software over cloud, and like systems that are fully transparent to the operator. Before adopting a tool, I benchmark it.
+Most of my projects start as tools for my own daily problems. I self-host the services I rely on (git, chat, AI models), prefer local software over cloud, and like systems that are fully transparent to the operator.
 
 ## What I work with
 
